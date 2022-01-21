@@ -1,0 +1,4 @@
+[autorun]
+ ;Open=YOURAPP.exe
+ ShellExecute=YOURAPP.exe
+ UseAutoPlay=1
