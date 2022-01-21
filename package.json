@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "drivelist": "^9.2.4",
+    "fs": "^0.0.1-security"
+  }
+}
